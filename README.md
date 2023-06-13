@@ -1,2 +1,1 @@
-# yosry-demo
-Yosry Demo
+# Carema Design System
